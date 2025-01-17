@@ -1,11 +1,19 @@
 .but{
   display: grid;
   grid-template-columns: repeat(3, 60px);
-  gap: 10px;
+  gap: 20px;
+  
  
 }
 .equal{
-width: 200px;
-background: #56ccdc;
+width: 140px;
+
 }
+.btn{
+  border: 2px solid #0c0c0c;
+}
+.display{
+  text-align: right;
+}
+
 
