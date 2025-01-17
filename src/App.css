@@ -1,0 +1,11 @@
+.but{
+  display: grid;
+  grid-template-columns: repeat(3, 60px);
+  gap: 10px;
+ 
+}
+.equal{
+width: 200px;
+background: #56ccdc;
+}
+
